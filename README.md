@@ -6,4 +6,5 @@ Change Log:
   2. Simplified code
   3. Input validations
 
+Thanks
 Ajan
